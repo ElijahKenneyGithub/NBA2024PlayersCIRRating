@@ -1,0 +1,12 @@
+name: 2024NBAApp
+title: 2024NBAApp
+username: elijah-kenney
+account: elijah-kenney
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12265336
+bundleId: 8815762
+url: https://elijah-kenney.shinyapps.io/2024NBAApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
